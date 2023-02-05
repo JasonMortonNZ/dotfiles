@@ -1,0 +1,6 @@
+[user]
+  name = Jason
+  email = JasonMortonNZ@users.noreply.github.com
+
+[init]
+  defaultBranch = master
