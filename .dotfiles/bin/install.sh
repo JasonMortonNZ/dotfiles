@@ -1,4 +1,4 @@
-git clone --bare git@bitbucket.org:JasonMortonNZ/dotfiles.git $HOME/.dotfiles
+git clone --bare git@github.com:JasonMortonNZ/dotfiles.git $HOME/.dotfiles
 function dotfiles {
    /usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME $@
 }
