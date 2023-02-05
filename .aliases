@@ -1,0 +1,12 @@
+# Aliases
+
+##########
+# Git    
+##########
+alias gs="git status"
+alias gl="git log"
+
+##########
+# Dotfiles
+##########
+alias dotfiles="/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
